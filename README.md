@@ -1,4 +1,5 @@
 **Emotion Detection from Uploaded Images**
+
 **Project Title:**
 Emotion Detection from Uploaded Images
 
